@@ -3,11 +3,16 @@
   "version": "1.1.1",
   "description": "superbowl_app: An Ionic project",
   "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
     "gulp": "^3.5.6",
-    "gulp-sass": "^2.0.4",
     "gulp-concat": "^2.2.0",
     "gulp-minify-css": "^0.3.0",
-    "gulp-rename": "^1.2.0"
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^2.0.4",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.3.6",
+    "morgan": "^1.6.1"
   },
   "devDependencies": {
     "bower": "^1.3.3",
